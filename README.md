@@ -39,7 +39,7 @@ The cluster-based 6-stock portfolio (selected via Deep Clustering) performs comp
 
 | File | Description |
 |---|---|
-| `Group_1_Clustering___Portfolio_Analysis.ipynb` | Full analysis notebook — data collection, clustering experiments, portfolio construction, and benchmarking |
+| `Group_1_Stock-Clustering-and-Portfolio-Analysis.ipynb` | Full analysis notebook — data collection, clustering experiments, portfolio construction, and benchmarking |
 
 ## How to Run
 
