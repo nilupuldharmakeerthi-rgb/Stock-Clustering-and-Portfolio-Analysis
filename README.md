@@ -1,9 +1,9 @@
-# Clustering & Portfolio Construction
+# Stock-Clustering-and-Portfolio-Analysis
 
 **Course:** FM 3056 — Group Assignment
 **Group Members:**
-- T.R.S.K. Fernando (S16688)
-- M.D.K.N. Dharmakeerthi (S16680)
+- T.R.S.K. Fernando 
+- M.D.K.N. Dharmakeerthi
 
 ## Overview
 
@@ -45,5 +45,5 @@ The cluster-based 6-stock portfolio (selected via Deep Clustering) performs comp
 
 ```bash
 pip install yfinance pandas numpy scipy scikit-learn tensorflow matplotlib seaborn
-jupyter notebook Group_1_Clustering___Portfolio_Analysis.ipynb
+jupyter notebook Group_1_Stock-Clustering-and-Portfolio-Analysis.ipynb
 ```
