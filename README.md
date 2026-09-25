@@ -3,6 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nilupuldharmakeerthi-rgb/Stock-Clustering-and-Portfolio-Analysis/blob/main/Group%201_Stock%20Clustering%20and%20Portfolio%20Analysis.ipynb)
 
 **Course:** FM 3056 — Group Assignment
+
 **Group Members:**
 - T.R.S.K. Fernando
 - M.D.K.N. Dharmakeerthi
