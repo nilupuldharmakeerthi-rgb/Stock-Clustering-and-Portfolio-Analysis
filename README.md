@@ -1,6 +1,7 @@
 # Stock-Clustering-and-Portfolio-Analysis
 
-**Course:** FM 3056 — Group Assignment
+**Course:** FM 3056 Group Assignment
+
 **Group Members:**
 - T.R.S.K. Fernando 
 - M.D.K.N. Dharmakeerthi
