@@ -35,7 +35,7 @@ The cluster-based 6-stock portfolio (selected via Deep Clustering) performs comp
 ### K-Means vs. Deep Clustering
 Multi features clusters, compared using Silhouette Scores (K-Means 0.51, Deep Clustering 0.738).
 
-![K-Means vs Deep Clustering](IMAGES/01 kmeans_vs_deep_clustering.JPG)
+![K-Means vs Deep Clustering](images/01 kmeans_vs_deep_clustering.JPG)
 
 ### Risk vs. Return, including the S&P 500 benchmark
 MSR, GMV and Utility-maximizing portfolios plotted against the S&P 500.
