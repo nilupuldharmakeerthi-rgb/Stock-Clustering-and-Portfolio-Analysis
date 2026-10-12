@@ -40,7 +40,7 @@ Multi features clusters, compared using Silhouette Scores (K-Means 0.51, Deep Cl
 ### Risk vs. Return, including the S&P 500 benchmark
 MSR, GMV and Utility-maximizing portfolios plotted against the S&P 500.
 
-![Risk vs Return with S&P 500 benchmark](images/02_risk_return_vs_sp500.png)
+![Risk vs Return with S&P 500 benchmark](images/02_risk_return_vs_sp500.JPG)
 
 ### Efficient Frontier
 Simulated portfolios, the efficient frontier, the Max Sharpe and Global Minimum Variance portfolios, and the Capital Market Line.
