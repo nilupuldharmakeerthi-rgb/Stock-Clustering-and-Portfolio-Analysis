@@ -3,6 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nilupuldharmakeerthi-rgb/Stock-Clustering-and-Portfolio-Analysis/blob/main/Group%201_Stock%20Clustering%20and%20Portfolio%20Analysis.ipynb)
 
 **Course:** FM 3056 — Group Assignment
+
 **Group Members:**
 - T.R.S.K. Fernando
 - M.D.K.N. Dharmakeerthi
@@ -32,9 +33,9 @@ The cluster-based 6-stock portfolio (selected via Deep Clustering) performs comp
 ## Results
 
 ### K-Means vs. Deep Clustering
-Annual return vs. annual volatility clusters, compared using Silhouette Scores (K-Means 0.537, Deep Clustering 0.569).
+Multi features clusters, compared using Silhouette Scores (K-Means 0.51, Deep Clustering 0.738).
 
-![K-Means vs Deep Clustering](images/01_kmeans_vs_deep_clustering.png)
+![K-Means vs Deep Clustering](IMAGES/01_kmeans_vs_deep_clustering.jpeg)
 
 ### Risk vs. Return, including the S&P 500 benchmark
 MSR, GMV and Utility-maximizing portfolios plotted against the S&P 500.
